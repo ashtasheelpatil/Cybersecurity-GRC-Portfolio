@@ -1,0 +1,3 @@
+Assessment ID,Requirement,Control/Evidence,Status,Gap,Owner,Due Date,Auditor Notes
+CA-001,Access control requirements,Access control policy and review records,Partially Compliant,Periodic review evidence incomplete,IT Security,,Verify samples
+CA-002,Incident management requirements,Incident response procedure and records,Compliant,No material gap identified,SOC,,Validate evidence
