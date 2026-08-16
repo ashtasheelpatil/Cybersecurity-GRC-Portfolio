@@ -1,0 +1,3 @@
+Finding ID,Source,Finding,Root Cause,Correction,Corrective Action,Owner,Due Date,Status,Effectiveness Check
+NC-001,Control Assessment,Access review evidence incomplete,Process ownership unclear,Complete overdue review,Define accountable owner and recurring review process,IT Security,,Open,Pending
+NC-002,Internal Audit,Emergency changes inconsistently documented,Procedure not consistently followed,Complete missing records,Reinforce emergency change workflow and review,IT Operations,,Open,Pending
