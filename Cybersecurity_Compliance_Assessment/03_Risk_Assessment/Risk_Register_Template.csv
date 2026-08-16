@@ -1,3 +1,0 @@
-Risk ID,Asset/Process,Threat,Vulnerability,Existing Controls,Likelihood,Impact,Risk Score,Risk Level,Risk Owner,Treatment,Residual Risk,Status
-R-001,Customer Database,Unauthorized access,Excessive privileges,MFA and access reviews,4,5,20,Critical,Data Owner,Reduce,,,Open
-R-002,Employee Devices,Malware,Unpatched endpoint,EDR and patching,3,4,12,High,IT Manager,Reduce,,,Open

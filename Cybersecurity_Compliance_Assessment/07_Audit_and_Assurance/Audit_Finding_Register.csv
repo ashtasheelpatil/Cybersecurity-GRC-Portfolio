@@ -1,3 +1,0 @@
-Finding ID,Audit Area,Requirement,Finding Type,Severity,Evidence,Root Cause,Corrective Action,Owner,Status
-F-001,Access Management,Access review requirement,Nonconformity,Minor,Review sample incomplete,Ownership ambiguity,Formalise access review accountability,IT Security,Open
-F-002,Change Management,Change control requirement,Observation,Medium,Emergency tickets lacked consistent approval evidence,Process adherence,Improve emergency change documentation,IT Operations,Open
