@@ -1,3 +1,0 @@
-Assessment_ID,AI_System,Affected_Stakeholders,Impact_Area,Potential_Impact,Severity,Likelihood,Mitigation,Residual_Level,Approval,Review_Date
-AIA-001,Customer Support AI,Customers and support staff,Fairness,Unequal service outcomes,High,Medium,Bias testing and human review,Medium,Pending,2026-12-31
-AIA-002,Internal Copilot,Employees,Privacy,Exposure of confidential information,High,Medium,Approved-use rules and DLP,Low,Pending,2026-12-31

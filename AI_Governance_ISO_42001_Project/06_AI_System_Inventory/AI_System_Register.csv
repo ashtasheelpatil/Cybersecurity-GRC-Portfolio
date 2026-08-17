@@ -1,4 +1,0 @@
-AI_ID,System_Name,Business_Owner,Technical_Owner,Use_Case,AI_Type,Provider,Data_Sensitivity,Risk_Level,Lifecycle_Status,Human_Oversight,Last_Assessment
-AI-001,Customer Support AI,Customer Operations,AI Engineering,Customer query assistance,Generative AI,Approved Cloud AI Provider,Confidential,High,Production,Human escalation,2026-08-01
-AI-002,Internal Copilot,IT,IT Engineering,Employee productivity,Generative AI,Approved Cloud AI Provider,Confidential,Medium,Production,User review,2026-08-01
-AI-003,Fraud Analytics,Risk,Data Science,Anomaly detection,Machine Learning,Internal,Restricted,High,Development,Analyst review,2026-08-05

@@ -1,2 +1,0 @@
-Incident_ID,Date,AI_System,Category,Description,Severity,Containment,Root_Cause,Corrective_Action,Owner,Status
-INC-001,2026-08-10,Customer Support AI,Output Quality,Unexpected inaccurate response,Medium,Human review enabled,Validation gap,Expand test set and monitoring,AI Engineering,Open
