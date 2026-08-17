@@ -1,0 +1,4 @@
+Risk_ID,AI_System,Risk_Category,Risk_Description,Likelihood,Impact,Inherent_Risk,Existing_Controls,Treatment,Owner,Residual_Risk,Status
+AIR-001,Customer Support AI,Bias,Unequal response quality across user groups,3,5,15,Bias testing and human escalation,Reduce,AI Product Owner,6,Open
+AIR-002,Document Assistant,Security,Prompt injection may influence system behavior,4,4,16,Input validation and security testing,Reduce,Security Lead,8,Open
+AIR-003,Internal Copilot,Data,Confidential information could be entered into an external model,3,5,15,DLP guidance and approved-tool list,Avoid,IT Manager,5,Open
