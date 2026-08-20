@@ -1,0 +1,6 @@
+Risk_ID,Vendor_ID,Risk,Inherent_Rating,Treatment,Residual_Rating,Owner,Status
+TPR-001,V-001,Cloud service disruption,Critical,Mitigate,Medium,IT Director,Open
+TPR-002,V-002,Payment data compromise,High,Mitigate,Medium,Payments Manager,Open
+TPR-003,V-003,Email compromise,High,Mitigate,Medium,IT Manager,Open
+TPR-004,V-004,Employee data exposure,High,Mitigate,Medium,HR Director,Open
+TPR-005,V-005,Unauthorized analytics access,Medium,Monitor,Low,Data Manager,Open

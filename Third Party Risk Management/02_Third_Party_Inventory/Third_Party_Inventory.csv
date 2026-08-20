@@ -1,0 +1,7 @@
+Vendor_ID,Vendor_Name,Service,Data_Access,System_Access,Criticality,Owner,Review_Frequency,Status
+V-001,CloudSphere,Cloud hosting,Confidential,Privileged,Critical,IT Director,Annual,Active
+V-002,PayLink,Payment processing,Restricted,API,Critical,Payments Manager,Annual,Active
+V-003,SecureMail,Email services,Confidential,Administrative,High,IT Manager,Annual,Active
+V-004,PeopleCore,HR SaaS,Personal,Standard,High,HR Director,Annual,Active
+V-005,DataAnalytics Pro,Analytics,Confidential,API,Medium,Data Manager,18 Months,Active
+V-006,OfficeSupply Co.,Office supplies,None,None,Low,Facilities Manager,36 Months,Active

@@ -1,0 +1,9 @@
+Control,Required,Applicable,Status
+Confidentiality,Yes,Yes,Complete
+Security obligations,Yes,Yes,Complete
+Incident notification,Yes,Yes,Pending
+Audit rights,Risk-based,Yes,Pending
+Business continuity,Yes,Critical vendors,Pending
+Data protection,Risk-based,Yes,Complete
+Subcontractor controls,Yes,Yes,Pending
+Data return/deletion,Yes,Yes,Pending

@@ -1,0 +1,4 @@
+Action_ID,Risk_ID,Mitigation,Owner,Due_Date,Status
+MIT-001,TPR-001,Annual disaster recovery test,IT Director,2026-09-30,Open
+MIT-002,TPR-002,Quarterly payment security review,Payments Manager,2026-09-30,Open
+MIT-003,TPR-003,Quarterly privileged access review,IT Manager,2026-09-30,Open

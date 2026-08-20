@@ -1,0 +1,4 @@
+Finding_ID,Area,Severity,Finding,Owner,Due_Date,Status
+F-001,Access Review,Medium,Incomplete privileged access review evidence,IT Manager,2026-09-15,Open
+F-002,Sub-processors,Medium,Sub-processor register outdated,HR Director,2026-09-20,Open
+F-003,Evidence Management,Low,Monitoring evidence inconsistent,TPRM Manager,2026-10-15,Open

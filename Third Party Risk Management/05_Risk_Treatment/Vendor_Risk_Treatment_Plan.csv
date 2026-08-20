@@ -1,0 +1,5 @@
+Risk_ID,Action,Control,Owner,Due_Date,Status
+TPR-001,Review resilience evidence and test failover,BCP/DR testing,IT Director,2026-09-30,Open
+TPR-002,Validate PCI controls and incident clauses,Payment security controls,Payments Manager,2026-09-15,Open
+TPR-003,Enforce MFA and privileged access review,IAM controls,IT Manager,2026-09-10,Open
+TPR-004,Review DPA and access controls,Privacy and IAM controls,HR Director,2026-09-20,Open

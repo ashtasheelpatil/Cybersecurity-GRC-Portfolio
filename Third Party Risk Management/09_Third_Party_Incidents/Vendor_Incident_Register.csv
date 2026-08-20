@@ -1,0 +1,3 @@
+Incident_ID,Vendor_ID,Date,Incident,Severity,Notification,Status
+INC-001,V-003,2026-07-08,Suspicious privileged account activity,High,Received,Closed
+INC-002,V-001,2026-07-22,Service availability disruption,Medium,Received,Closed

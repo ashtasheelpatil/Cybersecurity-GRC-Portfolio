@@ -1,0 +1,7 @@
+Vendor_ID,Criticality,Monitoring,Frequency,Owner
+V-001,Critical,Security assurance and resilience,Quarterly,TPRM Manager
+V-002,Critical,Security/compliance assurance,Quarterly,TPRM Manager
+V-003,High,Security evidence and incidents,Semi-Annual,TPRM Manager
+V-004,High,Privacy/security review,Semi-Annual,TPRM Manager
+V-005,Medium,Control review,Annual,TPRM Manager
+V-006,Low,Contract/status review,Every 3 Years,Procurement

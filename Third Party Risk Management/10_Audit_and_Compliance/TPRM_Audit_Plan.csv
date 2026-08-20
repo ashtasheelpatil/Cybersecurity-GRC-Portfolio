@@ -1,0 +1,6 @@
+Audit_ID,Area,Objective,Frequency,Owner
+AUD-001,Vendor Inventory,Verify completeness and accuracy,Annual,Internal Audit
+AUD-002,Due Diligence,Verify risk-based assessment,Annual,Internal Audit
+AUD-003,Contracts,Verify security clauses,Annual,Internal Audit
+AUD-004,Monitoring,Verify ongoing oversight,Annual,Internal Audit
+AUD-005,Offboarding,Verify secure termination,Annual,Internal Audit

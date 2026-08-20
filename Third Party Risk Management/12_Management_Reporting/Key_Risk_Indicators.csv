@@ -1,0 +1,6 @@
+KRI,Current,Threshold,Status
+Critical vendors without current assessment,0,>0,Green
+High-risk vendors with overdue remediation,1,>0,Amber
+Vendor security incidents,2,>3,Green
+Expired security certificates,0,>0,Green
+Vendors without contractual security requirements,2,>0,Amber

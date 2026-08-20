@@ -1,0 +1,7 @@
+Metric,Value,Target,Status
+Active Vendors,6,100% inventoried,Green
+Critical Vendors,2,100% assessed,Green
+High Risk Vendors,3,100% treated,Amber
+Open Findings,3,0 overdue,Amber
+Open Vendor Incidents,0,0,Green
+Valid Security Evidence,3,100% critical vendors,Green

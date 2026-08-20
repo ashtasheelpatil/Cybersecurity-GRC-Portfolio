@@ -1,0 +1,3 @@
+Vendor_ID,Vendor_Name,Critical_Service,Reason,Executive_Owner,Last_Assessment,Next_Assessment
+V-001,CloudSphere,Cloud hosting,Supports production workloads,CTO,2026-06-15,2027-06-15
+V-002,PayLink,Payment processing,Processes customer payments,CFO,2026-06-20,2027-06-20

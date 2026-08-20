@@ -1,0 +1,11 @@
+Step,Owner,Status
+Business justification,Business Owner,Complete
+Vendor inventory record,Procurement,Complete
+Criticality classification,TPRM Manager,Complete
+Security due diligence,Information Security,Complete
+Privacy assessment,Privacy/Legal,Complete
+Risk assessment,TPRM Manager,Complete
+Risk treatment,Business Owner,Pending
+Contract review,Legal/Procurement,Pending
+Approval,Approving Authority,Pending
+Monitoring setup,TPRM Manager,Pending

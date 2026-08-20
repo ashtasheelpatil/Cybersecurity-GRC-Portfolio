@@ -1,0 +1,3 @@
+CAPA_ID,Vendor_ID,Finding,Severity,Action,Owner,Due_Date,Status
+CAPA-001,V-003,Privileged access review evidence incomplete,Medium,Complete access review and retain evidence,IT Manager,2026-09-15,Open
+CAPA-002,V-004,Sub-processor register not current,Medium,Obtain updated sub-processor list,HR Director,2026-09-20,Open

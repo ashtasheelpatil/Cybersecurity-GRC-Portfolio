@@ -1,0 +1,7 @@
+Vendor_ID,Vendor_Name,Likelihood,Impact,Risk_Score,Risk_Rating,Key_Risk,Decision
+V-001,CloudSphere,4,5,20,Critical,Cloud outage or compromise,Mitigate
+V-002,PayLink,3,5,15,High,Payment data compromise,Mitigate
+V-003,SecureMail,3,4,12,High,Email account compromise,Mitigate
+V-004,PeopleCore,3,4,12,High,Employee data exposure,Mitigate
+V-005,DataAnalytics Pro,2,3,6,Medium,Unauthorized data access,Monitor
+V-006,OfficeSupply Co.,1,1,1,Low,Minimal,Accept
