@@ -1,3 +1,0 @@
-Risk ID,Treatment Action,Action Owner,Priority,Target Date,Required Resources,Status,Effectiveness Evidence
-R-001,Perform privileged access review and remove unnecessary access,IT Security,High,,Access review process,Open,
-R-002,Strengthen endpoint patch compliance monitoring,IT Operations,High,,Patch management tooling,Open,
