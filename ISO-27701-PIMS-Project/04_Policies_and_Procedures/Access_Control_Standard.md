@@ -1,2 +1,0 @@
-# Privacy-Focused Access Control Standard
-Grant access based on job duties and business need; apply least privilege; use unique identities and risk-appropriate authentication; restrict sensitive data and incident/rights files; approve and periodically review access; remove access promptly after role changes; log relevant access where appropriate; use approved secure sharing; prohibit real personal data in portfolio examples or unapproved test environments; document exceptions and expiry. Proposed standard; effectiveness not tested.
