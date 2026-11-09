@@ -1,2 +1,0 @@
-# Data Deletion and Disposal Procedure
-Confirm data, systems, copies, owner, and trigger; check legal holds and exceptions; confirm approved retention rule; identify production systems, exports, replicas, archives, backups, and processors; execute approved deletion/anonymization/disposal; address backups under lifecycle rules; request vendor confirmation where appropriate; record completion and exceptions; verify outcome proportionately; escalate failures and track corrective action. Validate against actual systems, contracts, backup design, and law.
