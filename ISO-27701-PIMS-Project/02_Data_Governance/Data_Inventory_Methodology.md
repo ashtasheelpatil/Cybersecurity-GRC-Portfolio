@@ -1,0 +1,2 @@
+# Data Inventory Methodology
+Identify processes; data subjects/categories; purposes; sources; systems and locations; recipients/processors; transfers; roles and lawful basis where applicable; retention; deletion; safeguards; and owners. Link entries to RoPA and privacy risks. Validate with process owners and update after material changes and at least annually. 

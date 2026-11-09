@@ -1,0 +1,2 @@
+# RoPA Methodology
+For each activity, assign an ID and owner; describe purpose, data subjects/categories, controller/processor role, lawful basis where applicable, source, recipients/processors, transfers, retention, disposal, and technical/organizational measures. Link to inventory and record review status/evidence. Review annually and after material changes. GDPR Article 30 may apply where GDPR applies; controller and processor records differ. Validate legal applicability and required fields. 
